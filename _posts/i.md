@@ -1,5 +1,5 @@
 ---
-title: "Who am I?"
+title: Who am I?
 published: true 
 ---
 
